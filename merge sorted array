@@ -1,0 +1,6 @@
+class solution(Object):
+def merge(self,nums1,m,num22,n):
+   for i in range(n):
+   nums1(m+i)=nums2(i)
+   nums1.sort()
+
